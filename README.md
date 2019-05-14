@@ -3,3 +3,5 @@
   2. bin -> Debug -> 시간표.exe를 실행한다
   
 코드는 맘대로 수정해도됨.
+xlsx 파일 링크
+  - https://drive.google.com/file/d/1dmzdML4RefKtVqB0HmMnHLTW3-pFlDVc/view?usp=sharing
