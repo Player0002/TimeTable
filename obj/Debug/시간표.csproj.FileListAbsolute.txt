@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\시간표\시간표\bin\Debug\시간표.exe.config
+C:\Users\user\source\repos\시간표\시간표\bin\Debug\시간표.exe
+C:\Users\user\source\repos\시간표\시간표\bin\Debug\시간표.pdb
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.Properties.Resources.resources
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.csproj.GenerateResource.cache
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.exe
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.pdb
+C:\Users\user\source\repos\시간표\시간표\bin\Debug\MaterialSkin.dll
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.csproj.CopyComplete
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.csprojAssemblyReference.cache
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\시간표\시간표\obj\Debug\시간표.Form1.resources
