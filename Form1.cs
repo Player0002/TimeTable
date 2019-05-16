@@ -300,7 +300,7 @@ namespace 시간표
         }
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex >= 1 && e.ColumnIndex >= 1)
+            if (e.RowIndex >= 0 && e.ColumnIndex >= 1)
             {
                 cells = dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex];
                 var datas = (cells.Value.ToString().Contains("━▷")
